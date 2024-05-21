@@ -1,0 +1,12 @@
+# Arquivos e diretórios específicos do Maven
+/target/*
+!/target/site/
+
+.idea/
+
+build/
+.gradle/
+
+bin/
+
+.DS_Store
